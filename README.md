@@ -14,6 +14,6 @@ Skills Demonstrated: Data cleaning, data visualization, time series analysis, DA
 How to Use:
 Download the Power BI file from the repository.
 Open the file in Power BI Desktop to explore the dashboard and interact with the visuals.
-Explore the insights and customize the analysis as needed.
+Explore the insights and customize the analysis as needed
 # Screenshot 
 ![Screenshot (223)](https://github.com/user-attachments/assets/345b83b2-b92c-4eb1-bca3-27a0d3b950c8)
